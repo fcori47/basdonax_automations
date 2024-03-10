@@ -4,8 +4,8 @@ Este repositorio contiene herramientas automatizadas para la edición y transcri
 
 ## Requisitos previos
 
-- Python: https://www.python.org/downloads/release/python-3115/
-- Dependencias de Python especificadas en `requirements.txt` o `requirements_transcripts_cuda.txt`/`requirements_transcripts_no_cuda.txt`
+- Python 3.11.5: https://www.python.org/downloads/release/python-3115/
+- Dependencias de Python especificadas en `requirements.txt` o `requirements_transcripts.txt`
 
 ## Instalación
 
