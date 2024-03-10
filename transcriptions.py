@@ -24,7 +24,6 @@ def transcribir_videos(path, destino_transcripciones):
         }
         vtt_writer = get_writer(output_format='srt', output_dir=destino_transcripciones)
         vtt_writer(result, ruta_video, word_options)
-        #shutil.move(f"{ruta_video}, destino_srt)
         print(f"Archivo {nombre_video}.srt guardado en {destino_transcripciones}.")
 
 
